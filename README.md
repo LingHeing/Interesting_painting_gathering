@@ -1,8 +1,10 @@
-# Heart1 Photo Collage Generator
+### Photo Collage Generator
+
+#### `heart1.py`
 
 Creates a solid heart-shaped collage from photos with controlled overlap.
 
-# Heart2 Photo Collage Generator
+#### `heart2.py`
 
 A Python script that arranges photos into a solid heart shape with slight rotations.
 
